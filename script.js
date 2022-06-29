@@ -1,5 +1,5 @@
-//var user = prompt('Insira um login')
-//var senha = prompt('agora insira uma senha')
+var user = prompt('Insira um login')
+var senha = prompt('agora insira uma senha')
 
 function login() {
   var user = prompt('Insira um login')
