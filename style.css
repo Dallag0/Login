@@ -38,6 +38,11 @@ img {
   padding: 12px;
 }
 
+input:focus {
+  border: 1px solid #80e0a7;
+  outline: none;
+}
+
 .submit {
   cursor: pointer;
   border: none;
